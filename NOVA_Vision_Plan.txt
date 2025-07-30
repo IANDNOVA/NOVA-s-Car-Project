@@ -1,0 +1,8 @@
+NOVA VISION PLAN
+(Created: July 29, 2025)
+
+✅ Phase 1: Detect faces & log observations.
+🔜 Phase 2: Detect objects (cars, trucks, people).
+🔜 Phase 3: Detect traffic lights & stop signs.
+🔜 Phase 4: Lane detection & road awareness.
+🔜 Phase 5: Full driving vision system.
