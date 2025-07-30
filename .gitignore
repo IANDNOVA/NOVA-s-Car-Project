@@ -1,0 +1,11 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore video recordings
+*.mp4
+
+# Ignore YOLO models
+*.pt
+
+# Ignore logs
+*.log
